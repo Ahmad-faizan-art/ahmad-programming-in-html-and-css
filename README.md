@@ -1,2 +1,2 @@
 # ahmad-programming-in-html-and-css
-this is my first github project
+this is my first github repository
